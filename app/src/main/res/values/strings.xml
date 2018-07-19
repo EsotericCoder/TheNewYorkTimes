@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The New York Times</string>
+    <string name="filter_button">Filter Button</string>
+</resources>
